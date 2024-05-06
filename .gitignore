@@ -1,0 +1,17 @@
+# Ignore binary files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore dependency directories
+vendor/
+
+# Ignore generated files
+sqlc/
+*.sql.go
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+*.swp
