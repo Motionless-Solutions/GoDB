@@ -3,7 +3,7 @@
 //   sqlc v1.25.0
 // source: users.sql
 
-package db
+package sqlc
 
 import (
 	"context"
